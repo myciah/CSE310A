@@ -8,16 +8,9 @@ This is a basic hello world program written in the python language. I created th
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
-
 * Visual Studio Code
 * Python 1.13.0
 * Git / GitHub
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
-
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 * [Python](https://www.python.org/)
